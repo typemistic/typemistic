@@ -1,7 +1,7 @@
 # 👋 Hey
 
-Your wondering, well maybe noone wondering who I am but I'll tell you
+You stumbled upon my profile
 
-I'm a ordinary person on github make or test projects
+I don't really have some cool project to show to the world, but I'm definitely gonna make some soon
 
-Ok thats it bye
+Until next time (okay maybe thats a little corny)
